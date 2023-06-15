@@ -5,7 +5,7 @@ def multiple_returns(sentence):
 
     if a1 != 0:
         new_tuple = (a1, a2)
-    else:
+    elif a1 == 0:
         new_tuple = (a1, None)
 
     return new_tuple
