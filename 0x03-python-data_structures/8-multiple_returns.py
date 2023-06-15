@@ -3,6 +3,7 @@ def multiple_returns(sentence):
     a1 = len(sentence)
     a2 = sentence[0]
 
-    new_tuple = (a1, a2)
+    if a1 != 0:
+        new_tuple = (a1, a2)
 
     return new_tuple
