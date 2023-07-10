@@ -1,5 +1,8 @@
 #!/usr/bin/python3
+"""
+This module defines the Squae Class.
+"""
 class Square:
-    """python3 -c 'print(__import__("my_module").MyClass.__doc__)'
+    """Class Square that defines a square.
     """ 
     pass
