@@ -1,6 +1,16 @@
 #!/usr/bin/python3
+"""This module defines a node
+"""
 class Node:
+    """This class defines a node
+    """
     def __init__(self, data, next_node=None):
+        """This class defines the data and next node
+
+        Attributes:
+            data (int): data
+            next_node: next node
+        """
         self.data = data
         self.next_node = next_node
 
