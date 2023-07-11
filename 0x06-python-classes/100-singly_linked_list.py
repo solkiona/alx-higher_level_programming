@@ -36,7 +36,11 @@ class Node:
 
 
 class SinglyLinkedList:
+    """This class defines a singly linked list
+    """
     def __str__(self):
+        """defines a string
+        """
         rtn = ""
         ptr = self.__head
 
