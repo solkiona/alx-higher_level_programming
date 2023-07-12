@@ -1,1 +1,2 @@
-This python project deals more on classes and objects
+This project is focused more on python classes and object.
+python --version python3
