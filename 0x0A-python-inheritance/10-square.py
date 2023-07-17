@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""This module contains a class that defines a squre from rectangle class"""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
